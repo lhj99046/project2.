@@ -33,20 +33,20 @@
 
 #### 6) 참고문헌
        * 뉴스 및 신문기사
-- https://www.safetynews.co.kr/news/articleView.html?idxno=202513
-- https://www.yna.co.kr/view/AKR20211202095500003
-- https://www.donga.com/news/Society/article/all/20210730/108253721
-- https://www.sisaweek.com/news/articleView.html?idxno=145063
-- https://www.tnews.kr/news/articleView.html?idxno=96669
-- https://mediahub.seoul.go.kr/archives/2000828
+       - https://www.safetynews.co.kr/news/articleView.html?idxno=202513
+       - https://www.yna.co.kr/view/AKR20211202095500003
+       - https://www.donga.com/news/Society/article/all/20210730/108253721
+       - https://www.sisaweek.com/news/articleView.html?idxno=145063
+       - https://www.tnews.kr/news/articleView.html?idxno=96669
+       - https://mediahub.seoul.go.kr/archives/2000828
 
        * 학술지
-- 전동킥보드 이용행태 및 안전에 관한 연구 (한국교통연구원)
-- 공유 전동킥보드 이용환경만족도 영향요인 분석 (대한건축학회)
-- 개인형 이동수단 관리 및 이용활성화를 위한 법령정비 연구 (한국교통연구원)
-- 권철우 외 1명, ‘XGBoost를 활용한 이륜자동차 교통사고 심각도 비교분석
-- 개인형이동장치교통사고특징및 심각도연구(도로교통공단-교통안전교육논문)
+       - 전동킥보드 이용행태 및 안전에 관한 연구 (한국교통연구원)
+       - 공유 전동킥보드 이용환경만족도 영향요인 분석 (대한건축학회)
+       - 개인형 이동수단 관리 및 이용활성화를 위한 법령정비 연구 (한국교통연구원)
+       - 권철우 외 1명, ‘XGBoost를 활용한 이륜자동차 교통사고 심각도 비교분석
+       - 개인형이동장치교통사고특징및 심각도연구(도로교통공단-교통안전교육논문)
 
        * 법령
-- 도로의 구조ㆍ시설 기준에 관한 규칙 (약칭: 도로구조규칙 )[시행 2013. 3. 23.][국토교통부령 제1호, 2013. 3. 23., 타법개정]
+       - 도로의 구조ㆍ시설 기준에 관한 규칙 (약칭: 도로구조규칙 )[시행 2013. 3. 23.][국토교통부령 제1호, 2013. 3. 23., 타법개정]
 
